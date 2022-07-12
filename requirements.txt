@@ -1,0 +1,7 @@
+Libraries Used:
+
+numpy-1.21.4
+pandas-1.3.4
+ast
+scikit-learn-1.1.0
+nltk-3.7
